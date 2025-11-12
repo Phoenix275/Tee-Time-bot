@@ -47,7 +47,7 @@ python3 -m playwright install chromium
 
 ### 6. 🚀 Run the Bot  
 
-python3 tee_bot_book_fix.py
+python3 tee2.py
 
 The script will prompt:
 
