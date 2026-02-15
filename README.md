@@ -46,13 +46,9 @@ pip install playwright python-dateutil
 python3 -m playwright install chromium
 
 ### 6. 🚀 Run the Bot  
+python3 tee.py
 
-python3 tee2.py
-
-The script will prompt:
-
-Enter your Sharpstown login email:  
-Enter your password:
+in the code you can change the email and password if needed.
 
 The bot will then:  
 - Log you in  
