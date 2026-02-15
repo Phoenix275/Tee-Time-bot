@@ -6,8 +6,8 @@ BASE_URL     = "https://foreupsoftware.com/index.php/booking/20954#/"
 LOGIN_URL    = BASE_URL + "login"
 ACCOUNT_URL  = BASE_URL + "account"
 
-USER_EMAIL    = os.getenv("FOREUP_EMAIL", "andrewmeng14@gmail.com")
-USER_PASSWORD = os.getenv("FOREUP_PASSWORD", "danliu0501A$")
+USER_EMAIL    = os.getenv("FOREUP_EMAIL", "charlesn100@gmail.com")
+USER_PASSWORD = os.getenv("FOREUP_PASSWORD", "YgB1h%Cumw9g*6Oa")
 
 PLAYERS = 4
 CARTS = False
