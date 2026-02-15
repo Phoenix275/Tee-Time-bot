@@ -50,6 +50,8 @@ python3 tee.py
 
 in the code you can change the email and password if needed.
 
+ONCE IT BOOKS THE RESERVATION, GO TO TERMINAL AND HIT CTRL + Z (IF ON MAC) THIS WILL TURN THE MODEL OFF.
+
 The bot will then:  
 - Log you in  
 - Open Online Tee Times  
